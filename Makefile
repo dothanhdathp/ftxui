@@ -1,5 +1,5 @@
 # Compiler
-CXX = g++
+CXX = x86_64-w64-mingw32-g++.exe
 
 # Compiler flags
 CXXFLAGS = -std=c++17 -Wall -Wextra -static -static-libgcc -static-libstdc++ -I./include/
